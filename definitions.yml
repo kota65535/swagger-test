@@ -1,0 +1,7 @@
+components:
+  schemas:
+    GetFooResponse:
+      type: object
+      properties:
+        name:
+          type: string
